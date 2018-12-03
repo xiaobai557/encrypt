@@ -35,3 +35,7 @@ $logic->action(1);
 // dev new 
 $logic = new ProgramLanunchLogic();
 $logic->action('somthing chnage');
+
+// dev feature
+$logic = new ProgramLanunchLogic();
+$logic->action('feature');
