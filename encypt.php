@@ -34,4 +34,4 @@ $logic->action(1);
 
 // dev new 
 $logic = new ProgramLanunchLogic();
-$logic->action(2);
+$logic->action('somthing new');
