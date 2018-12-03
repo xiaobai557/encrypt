@@ -31,3 +31,7 @@ class ProgramLanunchLogic
 
 $logic = new ProgramLanunchLogic();
 $logic->action(1);
+
+// dev new 
+$logic = new ProgramLanunchLogic();
+$logic->action(2);
