@@ -38,4 +38,4 @@ $logic->action('somthing chnage');
 
 // dev feature dev2 branch
 $logic = new ProgramLanunchLogic();
-$logic->action('feature');
+$logic->action('conflict');
