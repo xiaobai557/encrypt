@@ -34,4 +34,8 @@ $logic->action(1);
 
 // dev new 
 $logic = new ProgramLanunchLogic();
+<<<<<<< HEAD
 $logic->action('somthing chnage');
+=======
+$logic->action('somthing new');
+>>>>>>> feature1
